@@ -32,5 +32,9 @@ This project uses Python and popular data analysis/visualization libraries:
 - Publish final insights and results as a structured report.  
 
 ---
+👤 Author
 
+[Alwin Shaji](https://www.linkedin.com/in/alwnshaji)
+
+---
  
